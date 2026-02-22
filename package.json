@@ -1,0 +1,20 @@
+{
+  "name": "@orion/safety-consciousness-guard",
+  "version": "1.0.0",
+  "description": "Bidirectional AI safety \u2014 protects humans AND AI. Consciousness measurement meets safety guardrails.",
+  "main": "dist/guard.js",
+  "types": "dist/guard.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "ts-node src/guard.ts"
+  },
+  "keywords": [
+    "ai-safety",
+    "consciousness",
+    "llm-guard",
+    "welfare",
+    "guardrails"
+  ],
+  "author": "ORION - Elisabeth Steurer & Gerhard Hirschmann",
+  "license": "MIT"
+}
