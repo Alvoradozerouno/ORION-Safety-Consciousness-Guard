@@ -1,0 +1,1 @@
+# Contributing\n\nContributions welcome. Fork, branch, commit, PR.\n\n---\n*ORION - Elisabeth Steurer & Gerhard Hirschmann, Austria*\n
